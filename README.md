@@ -1,6 +1,6 @@
-#Sentence Similairy Detection using Natural Language Processing -SpaCy
+# Sentence Similairy Detection using Natural Language Processing -SpaCy
 
-##What Have I done in This Project
+## What Have I done in This Project
 
 >SpaCy Library
 >
